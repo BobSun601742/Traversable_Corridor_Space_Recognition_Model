@@ -1,0 +1,36 @@
+{
+  "version": "6.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "walkable",
+      "points": [
+        [
+          610.0,
+          1070.2083333333333
+        ],
+        [
+          895.4166666666666,
+          597.2916666666666
+        ],
+        [
+          1005.8333333333333,
+          597.2916666666666
+        ],
+        [
+          1255.8333333333333,
+          1076.4583333333333
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "train_00056.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

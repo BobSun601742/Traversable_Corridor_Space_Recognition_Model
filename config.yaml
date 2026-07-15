@@ -1,0 +1,21 @@
+data:
+  train_images: data/train_images
+  train_masks: data/train_masks
+  val_images: data/val_images
+  val_masks: data/val_masks
+
+train:
+  image_width: 256
+  image_height: 144
+  batch_size: 8
+  epoches: 60
+  lr: 0.001
+  num_workers: 0
+
+model: 
+  in_channels: 3
+  out_channels: 1
+
+save:
+  checkpoint_dir: runs/checkpoints
+  output_dir: runs/outputs

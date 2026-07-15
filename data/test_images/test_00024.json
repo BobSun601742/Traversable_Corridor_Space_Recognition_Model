@@ -1,0 +1,36 @@
+{
+  "version": "6.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "walkable",
+      "points": [
+        [
+          964.1666666666666,
+          1076.4583333333333
+        ],
+        [
+          1155.8333333333333,
+          568.125
+        ],
+        [
+          1251.6666666666667,
+          568.125
+        ],
+        [
+          1405.0219298245613,
+          1080.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "test_00024.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}
